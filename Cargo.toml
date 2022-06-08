@@ -1,5 +1,6 @@
 [package]
 name = "roger"
+description = "Play with Zapp"
 version = "0.1.0"
 authors = ["Fumitake Kawasaki <f.kawasaki@elsoul.nl>"]
 edition = "2021"
