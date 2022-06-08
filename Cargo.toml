@@ -1,0 +1,8 @@
+[package]
+name = "roger"
+version = "0.1.0"
+authors = ["Fumitake Kawasaki <f.kawasaki@elsoul.nl>"]
+edition = "2021"
+license = "Apache-2.0"
+
+[dependencies]
